@@ -1,2 +1,4 @@
-# AI-practical-25-04-23
-Artificial Intelligence/Machine Learning
+# AI Practical 
+25.04.2023
+
+In this practical work we have analysies a dataset from `iris.csv` file
