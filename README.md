@@ -6,6 +6,7 @@ In this practical work we have analysies a dataset from `iris.csv` file.
 As instructed from the question paper, the data is explored through reading it from the data sheet. 
 
 There are 5 categories:
+
     - 1. sepal length
     - 2. sepal width
     - 3. petal length
