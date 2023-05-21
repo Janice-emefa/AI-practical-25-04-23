@@ -6,11 +6,11 @@ In this practical work we have analysies a dataset from `iris.csv` file.
 As instructed from the question paper, the data is explored through reading it from the data sheet. 
 
 There are 5 categories:
-    -1. sepal length
-    -2. sepal width
-    -3. petal length
-    -4. petal width
-    -5. variety
+    - 1. sepal length
+    - 2. sepal width
+    - 3. petal length
+    - 4. petal width
+    - 5. variety
 
 Several ways of machine learning, such as clustering and classification were used in training and testing the model.
 
